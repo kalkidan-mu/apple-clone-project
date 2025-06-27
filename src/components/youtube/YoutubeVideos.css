@@ -1,0 +1,36 @@
+.title-wraper{
+    text-align: center;
+}
+.videosWrapper{
+    text-align: center;
+    
+}
+.allVideosWrapper{
+    background: #fff;
+    padding: 50px;
+    text-align: center;
+}
+.singleVideoWrapper{
+    width: 100%;
+    background: #f3f2f2;
+/* border-style:ridge; */
+box-shadow: 4px 8px 13px  rgba(151, 148, 144, 0.345);
+max-height: 393px;
+margin-bottom: 20px;
+overflow: hidden;
+}
+.videoTitle{
+    font-weight: 700;
+    line-height: 1.2em;
+}
+.videoTitle a {
+    color: #000;
+}
+.videoDesc{
+    font-size: 1em;
+    color: #676767;
+}
+.videoInfoWrapper{
+    padding: 10px 20px;
+    text-align: left;
+}
