@@ -1,12 +1,47 @@
-# React + Vite
+🍏 Apple Clone Project
+This is a front-end clone of the Apple website, built using React and CSS. The project replicates the layout and styling of Apple’s homepage, with functional pages and components, dynamic routing, and API integration.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔧 Tech Stack
+⚛️ React (with Vite)
 
-Currently, two official plugins are available:
+🎨 CSS (custom and Bootstrap)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔁 React Router
 
-## Expanding the ESLint configuration
+🌐 API Integration (for latest Apple products/videos)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📸 Features
+🖥️ Responsive layout inspired by Apple.com
+
+📺 Fetches latest Apple promotional videos via API
+
+📱 Dedicated iPhone product page
+
+🔗 Dynamic routing with react-router-dom
+
+🧭 HashRouter used for GitHub Pages compatibility
+
+📦 Deployed via GitHub Pages
+
+🚧 Features in Progress
+🔗 Navigation header links (e.g., Mac, iPad, Watch, Music) – Not yet fully functional
+
+🛒 Cart and Search links (placeholders currently)
+
+🎨 Full page transitions and animations
+
+🚀 Installation (Local)
+bash
+Copy
+Edit
+git clone https://github.com/kalkidan-mu/apple-clone-project.git
+cd apple-clone-project
+npm install
+npm run dev
+
+
+🌍 Live Demo
+📡 View it on GitHub Pages
+
+author :kalkidan azene
+
