@@ -1,4 +1,6 @@
-🍏 Apple Clone Project
+## 🍏 Apple Clone Project
+
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-black?logo=github)](https://github.com/kalkidan-mu/apple-clone-project)
 This is a front-end clone of the Apple website, built using React and CSS. The project replicates the layout and styling of Apple’s homepage, with functional pages and components, dynamic routing, and API integration.
 
 🔧 Tech Stack
@@ -40,8 +42,6 @@ npm install
 npm run dev
 
 
-🌍 Live Demo
-📡 View it on GitHub Pages
 
 author :kalkidan azene
 
