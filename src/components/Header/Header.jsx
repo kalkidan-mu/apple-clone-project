@@ -23,13 +23,13 @@ function Header() {
 
           <div className="navbar-collapse collapse">
             <ul className="navbar-nav nav-justified w-100 nav-fill">
-              <Headerlink link="/mac/" name="Mac" />
+              <Headerlink link="/" name="Mac" />
               <Headerlink link="/iphone/" name="iphone" />
-              <Headerlink link="/ipad/" name="ipad" />
-              <Headerlink link="/watch/" name="Watch" />
-              <Headerlink link="/tv/" name="tv" />
-              <Headerlink link="/music/" name="Music" />
-              <Headerlink link="/support/" name="Support" />
+              <Headerlink link="/" name="ipad" />
+              <Headerlink link="/" name="Watch" />
+              <Headerlink link="/" name="tv" />
+              <Headerlink link="/" name="Music" />
+              <Headerlink link="/" name="Support" />
               <li className="nav-item">
                 <a className="nav-link js-scroll-trigger" href="/search/">
                   <img src={searchIcon} />
